@@ -1,6 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import Pagination from "./Components/page";
-import data from './data.json';
+import data from './data.json'; 
 import './App.css';
 
 let PageSize = 10;
