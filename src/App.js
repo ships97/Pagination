@@ -25,7 +25,7 @@ export default function App() {
             <th>EMAIL</th>
             <th>PHONE</th>
           </tr>
-        </thead>
+        </thead> 
         <tbody>
           {currentTableData.map(item => {
             return (
